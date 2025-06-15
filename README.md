@@ -5,7 +5,9 @@ This repository showcases a professional HR Analytics Dashboard to track Employe
 
 🔍 Dashboard Overview:
 The dashboard provides deep insights into key performance indicators such as:
+
 👥 Total Employees, Average Rating, Productivity Score, and Goal Achievement
+
 📌 Performance by Department & Job Role
 📈 Learning Score & Training Completion Rate
 🧠 360° Feedback and Appraisal Comments
@@ -59,4 +61,4 @@ The Employee Performance Dashboard provides a centralized, interactive, and data
 4. Improve overall organizational productivity and morale
 
 Screenshot/Demo-
-Screenshot- 
+Screenshot- https://github.com/Shamika25/Emp-Performance-Dashboard/blob/main/Final%20Emp%20Performance%20Dashboard.png
