@@ -9,11 +9,17 @@ The dashboard provides deep insights into key performance indicators such as:
 👥 Total Employees, Average Rating, Productivity Score, and Goal Achievement
 
 📌 Performance by Department & Job Role
+
 📈 Learning Score & Training Completion Rate
+
 🧠 360° Feedback and Appraisal Comments
+
 🚨 Risk Monitoring through Disciplinary Actions, Probation, and Warnings
+
 📊 KPI Achievement and Absenteeism Rate by Department
+
 ✅ Training Recommendation Breakdown for skill development
+
 📋 Performance Plans to manage underperformance
 
 📁 Data Source:
